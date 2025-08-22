@@ -48,6 +48,7 @@ From the 'URL Feature Input sidebar, select:
 **Is it an abnormal URL**   unchecked
 **URL has political keyword**  unchecked
 
-## Malicious URL testing expected result
+## Benign URL testing expected result
    Prediction: Benign URL
    Malicious Confidence Score: 15.00% 
+

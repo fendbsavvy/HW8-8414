@@ -45,11 +45,12 @@ The SOAR was developed to extend the original application by enhancing it from a
   2. Train clustering model → saved as `threat_actor_profiler`.  
 
     (Streamlit app)
-  3. Access web application http://<IP or localhost>:8501.  
+  3. Access web application http://<IP "or localhost">:8501.  
   4. Select the characteristics of the suspicious URL from the side menu.
   5. Select Gemini as GenAI Provider
   6. Click "Analyze & Initiate Response" button
   7. Allow the model to complete analysis, view results in the analysis tabs.
+
 
 
 

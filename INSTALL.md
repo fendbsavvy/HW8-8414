@@ -24,13 +24,6 @@ This guide walks you through setting up a development environment from scratch, 
     sudo apt install -y make
 
 
-# Create and activate virtual environment
-  (inside project directory)
-  python3 -m venv venv
-  source venv/bin/activate
-
-
-
 # Create secrets (see Section 4 for details)
   mkdir -p .streamlit
   cd <project folder>/.streamlit
@@ -44,3 +37,4 @@ This guide walks you through setting up a development environment from scratch, 
 
 # Check error
   make logs
+
